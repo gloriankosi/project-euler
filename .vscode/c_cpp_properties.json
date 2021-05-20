@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [],
+            "defines": [],
+            "macFrameworkPath": [],
+            "intelliSenseMode": "macos-gcc-arm64",
+            "compilerArgs": [],
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "compilerPath": "/opt/homebrew/bin/g++-11",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
