@@ -13,7 +13,6 @@
 using std::cin;
 using std::cout;
 using std::floor;
-using std::vector;
 
 long long SieveOfEratosthenes(long long);
 
