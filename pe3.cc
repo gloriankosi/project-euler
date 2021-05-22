@@ -9,7 +9,6 @@
 
 #include <iostream>
 #include <cmath>
-#include <vector>
 
 using std::cin;
 using std::cout;
